@@ -14,7 +14,7 @@ from twilio.rest import Client
 c = 0
 senha_salva = ''
 dropboxToken = ""
-link = ''
+link = '' 
 
 '''
 def send_SMS(phone_number, link):
